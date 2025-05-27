@@ -63,5 +63,18 @@ body {
     color: #555;
   }
   
+
+  .contact {
+    text-align: center;
+    margin-top: 3rem;
+  }
+  
+  .contact a {
+    color: #5c4033;
+    text-decoration: underline dotted;
+    margin: 0 0.5rem;
+    font-weight: 500;
+  }
+  
   
   
